@@ -9,17 +9,17 @@ Welcome to my GitHub profile!
 I'm a passionate developer interested in open source, learning new technologies, and building cool projects.  
 Feel free to explore my repositories and connect with me!
 
-- 🌱 I’m currently learning: **(Your current focus, e.g., React, Machine Learning, etc.)**
-- 👯 I’m looking to collaborate on: **(Projects/areas you want to collaborate on)**
-- 💬 Ask me about: **(Topics you’re confident in, e.g., Python, Web Development, etc.)**
-- 📫 How to reach me: **(Your email or social links)**
-- ⚡ Fun fact: **(Something interesting about you!)**
-
+ 🌱 I’m currently learning: JavaScript (strengthening my core concepts)
+ 👯 I’m looking to collaborate on: Projects using HTML, CSS, and JavaScript
+ 💬 Ask me about: Frontend web development and website design
+ 📫 How to reach me: abdullah.hamdani87@gmail.com
+ ⚡ Fun fact: I enjoy logic building and design more than theories!
+ 
 ---
 
 ## 🛠️ Languages and Tools
 
-![Your favorite languages](https://skillicons.dev/icons?i=js,ts,py,react,nodejs,github,linux)
+![Your favorite languages]( https://skillicons.dev/icons?i=html,css,js,github,vscode)
 
 ---
 
