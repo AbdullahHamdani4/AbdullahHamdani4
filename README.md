@@ -25,7 +25,7 @@ Feel free to explore my repositories and connect with me!
 
 ## 📈 GitHub Stats
 
-![Abdullah Hamdani's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahHamdani4&show_icons=true&theme=radical)
+![Abdullah Hamdani's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbdullahHamdani4)
 
 ---
 
