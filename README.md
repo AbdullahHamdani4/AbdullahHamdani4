@@ -28,7 +28,7 @@ Feel free to explore my repositories and connect with me!
 ![Abdullah Hamdani's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbdullahHamdani4)
 
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbdullahHamdani4)](https://git.io/streak-stats)
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-hamdani-6a0580379/)
